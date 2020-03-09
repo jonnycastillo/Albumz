@@ -19,7 +19,7 @@
     "express-session": "^1.14.2",
     "express-validator": "*",
     "firebase": "*",
-    "morgan": "~1.7.0",
+    "morgan": "~1.9.1",
     "multer": "*",
     "path":"*"
   }
