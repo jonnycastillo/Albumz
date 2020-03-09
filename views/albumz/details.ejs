@@ -1,0 +1,30 @@
+<% include ../partials/header %>
+	<h1><%=album.artist%> - <%=album.title %></h1>
+
+	<div class="row album">
+		<div class="col-md-4">
+			<img src ="/images/uploads/<%=album.cover%>">
+		</div>
+		<div class="col-md-7">
+			<ul>
+				<li class ="list-group-item"><strong>Artist:</strong> <%=album.artist %></li>
+				<li class ="list-group-item"><strong>Title:</strong> <%=album.title %></li>
+				<li class ="list-group-item"><strong>Genre:</strong> <%=album.genre %></li>
+			
+			</ul>
+		</div>
+	</div>
+<hr />
+	<div class="row">
+		<div class= "col-md-12">
+			<h4>Album Info </h4>
+			<p><%=album.info%></p>
+		</div>
+	</div>
+<br />
+	<hr />
+	<% if (authdata != null) {%>
+	<a href="/albumz/edit/<%= id%>" class="btn btn-default"> Edit</a>
+	<a href="#" data-id="<%= id%>" class="delete-album btn btn-danger"> Delete</a>
+	<% } %>
+<% include ../partials/footer %>

@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Projects/GoogleAPI/quickstart.js",
+			"settings":
+			{
+				"buffer_size": 3940,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Projects/GoogleAPI/node_modules/google-auth-library/package.json",
+			"settings":
+			{
+				"buffer_size": 4378,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/GoogleAPI"
+	],
+	"file_history":
+	[
+		"/C/Projects/GoogleAPI/node_modules/googleapis/package.json",
+		"/C/Projects/albumz/albumz.sublime-project",
+		"/C/Projects/albumz/albumz.sublime-workspace",
+		"/C/Projects/albumz/package.json",
+		"/C/Projects/albumz/public/js/main.js",
+		"/C/Projects/albumz/public/css/style.css",
+		"/C/Projects/albumz/app.js",
+		"/C/Projects/albumz/views/index.ejs",
+		"/C/Projects/albumz/views/partials/header.ejs",
+		"/C/Projects/albumz/views/partials/footer.ejs",
+		"/C/Projects/albumz/views/users/login.ejs",
+		"/C/Projects/albumz/views/users/register.ejs",
+		"/C/Projects/albumz/views/genres/edit.ejs",
+		"/C/Projects/albumz/views/genres/index.ejs",
+		"/C/Projects/albumz/views/albumz/details.ejs",
+		"/C/Projects/albumz/views/genres/add.ejs",
+		"/C/Projects/albumz/views/albumz/index.ejs",
+		"/C/Projects/albumz/views/albumz/add.ejs",
+		"/C/Projects/albumz/views/albumz/edit.ejs",
+		"/C/Projects/albumz/views/albums.ejs",
+		"/C/Projects/albumz/routes/index.js",
+		"/C/Projects/albumz/routes/albums.js",
+		"/C/Projects/albumz/routes/genres.js",
+		"/C/Projects/albumz/routes/users.js",
+		"/C/Projects/nodeauth/package.json",
+		"/C/Projects/nodeauth/node_modules/express-validator/lib/express_validator.js",
+		"/C/Projects/nodeauth/views/layout.jade",
+		"/C/Projects/nodeauth/routes/users.js",
+		"/C/Projects/nodeauth/views/register.jade",
+		"/C/Projects/GoogleAPI/ebay",
+		"/C/Projects/nodeauth/models/user.js",
+		"/C/Projects/GoogleAPI/quickstart.js",
+		"/C/Projects/GoogleAPI/credentials/script-nodejs-quickstart.json",
+		"/C/Users/BLACKSWAN/.credentials/script-nodejs-quickstart.json",
+		"/C/Users/BLACKSWAN/Downloads/test.html",
+		"/C/Users/BLACKSWAN/Downloads/test (1).html",
+		"/C/Projects/nodeauth/node_modules/amdefine/amdefine.js",
+		"/C/Users/BLACKSWAN/Downloads/SecureDownloadManager.log",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/views/layout.jade",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/views/register.jade",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/views/login.jade",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/app.js",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/express_website/views/index.jade",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/routes/users.js",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/routes/index.js",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/express_website/views/layout.jade",
+		"/C/Users/BLACKSWAN/Google Drive/Projects/nodeauth/views/index.jade",
+		"/C/Projects/nodeauth/app.js",
+		"/C/Projects/express_website/views/index.jade",
+		"/C/Projects/express_website/views/layout.jade",
+		"/C/Projects/express_website/app.js",
+		"/C/Projects/express_website/package.json",
+		"/C/Projects/simpleserver/server.js",
+		"/C/Projects/simpleserver/index.html",
+		"/C/Projects/simpleserver/about.html",
+		"/C/Projects/simpleserver/services.html",
+		"/C/Projects/simpleserver/page.html",
+		"/C/Program Files/Git/mingw32/share/doc/git-doc/git-add.html",
+		"/C/Projects/simpleserver/page.html.txt",
+		"/C/Projects/simpleserver/package.json"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fbref",
+			"script",
+			"auth",
+			"token",
+			"entity",
+			".$",
+			"/",
+			".$",
+			"</.+",
+			">.+",
+			"^.",
+			"css.map",
+			"users",
+			"index",
+			"expressvali",
+			"var session = require('express-session');",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			">\\",
+			"\\",
+			"$& /",
+			"",
+			" $&",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Projects/GoogleAPI/quickstart.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3909,
+								3909
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Projects/GoogleAPI/node_modules/google-auth-library/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1940.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/C/Projects/GoogleAPI/google.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "albumz",
+		"selected_items":
+		[
+			[
+				"albumz",
+				"C:\\Projects\\albumz\\package.sublime-workspace"
+			],
+			[
+				"",
+				"C:\\Projects\\albumz\\package.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

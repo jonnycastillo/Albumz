@@ -1,0 +1,21 @@
+<% include ../partials/header %>
+	<h1>Register</h1>
+	<br />
+	<br />
+  <form method="post" action="/users/register">
+    <div class="form-group">
+      <label>First Name</label>
+      <input name="first_name" type="text" placeholder="First name" class="form-control"/>
+      <label>Last Name</label>
+      <input name="last_name" type="text" placeholder="Last name" class="form-control"/>
+      <label>Email</label>
+      <input name="email" type="email" placeholder="Enter email" class="form-control"/>
+      <label>Password</label>
+      <input name="password" type="password" placeholder="Enter password" class="form-control"/>
+      <label>Confirm Password</label>
+      <input name="password2" type="password" placeholder="Confirm password" class="form-control"/>
+    </div>
+    <button type="submit" class="btn btn-default">Register</button>	
+  </form>
+</h2>
+<% include ../partials/footer %>
