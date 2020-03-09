@@ -9,7 +9,7 @@ var flash = require('connect-flash');
 var firebase = require('firebase');
 
 var config = {
-    apiKey: "AIzaSyC2EYaT1oo9cdboAKapKIbYtpDe9tdwP7c",
+    apiKey: "*",
     authDomain: "lobalam-f8d76.firebaseapp.com",
     databaseURL: "https://lobalam-f8d76.firebaseio.com",
     storageBucket: "lobalam-f8d76.appspot.com",

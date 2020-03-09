@@ -8,20 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Projects/GoogleAPI/quickstart.js",
+			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 3940,
+				"buffer_size": 2950,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Projects/GoogleAPI/node_modules/google-auth-library/package.json",
-			"settings":
-			{
-				"buffer_size": 4378,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -61,6 +53,8 @@
 	],
 	"file_history":
 	[
+		"/C/Projects/GoogleAPI/quickstart.js",
+		"/C/Projects/GoogleAPI/node_modules/google-auth-library/package.json",
 		"/C/Projects/GoogleAPI/node_modules/googleapis/package.json",
 		"/C/Projects/albumz/albumz.sublime-project",
 		"/C/Projects/albumz/albumz.sublime-workspace",
@@ -92,7 +86,6 @@
 		"/C/Projects/nodeauth/views/register.jade",
 		"/C/Projects/GoogleAPI/ebay",
 		"/C/Projects/nodeauth/models/user.js",
-		"/C/Projects/GoogleAPI/quickstart.js",
 		"/C/Projects/GoogleAPI/credentials/script-nodejs-quickstart.json",
 		"/C/Users/BLACKSWAN/.credentials/script-nodejs-quickstart.json",
 		"/C/Users/BLACKSWAN/Downloads/test.html",
@@ -178,64 +171,33 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Projects/GoogleAPI/quickstart.js",
+					"file": "app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3940,
+						"buffer_size": 2950,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3909,
-								3909
+								380,
+								380
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Projects/GoogleAPI/node_modules/google-auth-library/package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4378,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1940.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
